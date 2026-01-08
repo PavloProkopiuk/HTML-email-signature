@@ -6,7 +6,7 @@ This project features a high-quality, professional HTML email signature develope
 
 * **Mobile Responsive (Fluid Hybrid Layout):** Unlike standard signatures that simply shrink, this signature uses a stacking method. Blocks (Name, Contact, Logo) automatically realign vertically on narrow screens to ensure readability.
 * **Cross-Platform Compatibility:** Developed using table-based HTML and inline CSS to ensure consistent rendering in **Microsoft Outlook (Desktop & Web)**, **Gmail**, **Apple Mail**, and **Yahoo**.
-* **Pixel Perfect Design:** Exact implementation of the brand's visual identity, including the specific color palette ($#4e6144$ and $#a8b093$) and the decorative horizontal bands as seen in the original brief.
+* **Pixel Perfect Design:** Exact implementation of the brand's visual identity, including the specific color palette (#4e6144 and #a8b093) and the decorative horizontal bands as seen in the original brief.
 * **Data Integrity:** Implemented `white-space: nowrap` and multi-column contact layouts to prevent phone numbers and email addresses from breaking awkwardly on small displays.
 * **Outlook Optimization:** Includes MSO (Microsoft Outlook) conditional comments to force correct widths and prevent layout collapsing in older versions of Outlook.
 
