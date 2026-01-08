@@ -27,8 +27,7 @@ This project features a high-quality, professional HTML email signature develope
 
 | Desktop View | Mobile View (Stacked) |
 | :--- | :--- |
-| ![Desktop Preview](<img width="854" height="754" alt="image_2026-01-07_21-02-50" src="https://github.com/user-attachments/assets/b6ee6862-717b-47bf-b060-5a65c4985b5e" />
-) | ![Mobile Preview](<img width="657" height="877" alt="image_2026-01-07_21-03-15" src="https://github.com/user-attachments/assets/356bfe56-85d3-4eb5-9a8a-59eec75e60c3" />
+| ![Desktop Preview](<img width="854" height="754" alt="image_2026-01-07_21-02-50" src="https://github.com/user-attachments/assets/b6ee6862-717b-47bf-b060-5a65c4985b5e" />) | ![Mobile Preview](<img width="657" height="877" alt="image_2026-01-07_21-03-15" src="https://github.com/user-attachments/assets/356bfe56-85d3-4eb5-9a8a-59eec75e60c3" />
 ) |
 
 ---
