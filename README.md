@@ -1,34 +1,31 @@
-# Responsive HTML Email Signature - Pixel Perfect Development
+HTML Email Signature
 
-This project features a high-quality, professional HTML email signature developed from a specific design brief. It is engineered to maintain visual integrity across all major email clients while providing a seamless experience on mobile devices.
+This project contains a custom-built HTML email signature converted from a provided design.
 
-## 🚀 Key Features
+Features
 
-* **Mobile Responsive (Fluid Hybrid Layout):** Unlike standard signatures that simply shrink, this signature uses a stacking method. Blocks (Name, Contact, Logo) automatically realign vertically on narrow screens to ensure readability.
-* **Cross-Platform Compatibility:** Developed using table-based HTML and inline CSS to ensure consistent rendering in **Microsoft Outlook (Desktop & Web)**, **Gmail**, **Apple Mail**, and **Yahoo**.
-* **Pixel Perfect Design:** Exact implementation of the brand's visual identity, including the specific color palette ($#4e6144$ and $#a8b093$) and the decorative horizontal bands as seen in the original brief.
-* **Data Integrity:** Implemented `white-space: nowrap` and multi-column contact layouts to prevent phone numbers and email addresses from breaking awkwardly on small displays.
-* **Outlook Optimization:** Includes MSO (Microsoft Outlook) conditional comments to force correct widths and prevent layout collapsing in older versions of Outlook.
+Table-based layout for maximum compatibility
 
-## 🛠 Tech Stack
+Inline CSS (Outlook-safe)
 
-* **HTML5:** Table-based structure for email client support.
-* **CSS3:** Inline styling for maximum compatibility.
-* **MSO Logic:** Conditional code specifically for the Outlook rendering engine.
+Works in Gmail, Outlook (Windows), Apple Mail, and mobile clients
 
-## 📦 Installation & Usage
+Responsive-friendly scaling on smaller screens
 
-1.  **Download:** Clone this repository or download the `index.html` file.
-2.  **Customization:** * Update the `<img>` tag with your hosted logo URL.
-    * Edit the text fields with your personal contact information.
-3.  **Deployment:** Open the file in a browser, copy the rendered signature, and paste it into your email client's signature settings.
+Clickable phone numbers, email address, and website
 
-## 📱 Preview
+Logo area can be easily replaced with an image if provided
 
-| Desktop View | Mobile View (Stacked) |
-| :--- | :--- |
-| ![Desktop Preview](<img width="854" height="754" alt="image_2026-01-07_21-02-50" src="https://github.com/user-attachments/assets/b6ee6862-717b-47bf-b060-5a65c4985b5e" />) | ![Mobile Preview](<img width="657" height="877" alt="image_2026-01-07_21-03-15" src="https://github.com/user-attachments/assets/356bfe56-85d3-4eb5-9a8a-59eec75e60c3" />
-) |
+Files
 
----
-*Developed as a showcase for high-quality email signature implementation.*
+signature.html — final HTML email signature code
+
+How to Use
+
+Open signature.html in a browser.
+
+Copy the signature content.
+
+Paste it into your email client’s signature settings (Gmail, Outlook, etc.).
+
+Update text details if needed.
